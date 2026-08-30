@@ -1,8 +1,8 @@
-VERSION 08/30/2026 9:24:27 PM
-FIG #C:\Users\User\Desktop\Nand103NasirAldeen.MSK
+VERSION 8/30/2026 10:12:30 PM
+FIG #C:\Users\adeij\Desktop\vlsi-final-project\Nand103NasirAldeen.MSK
 BB(-99,118,-57,166)
 SIMU #2.50
-ZOOM(-123,109,-59,173)
+ZOOM(-109,113,-52,171)
 REC(-91,139,32,22,NW)
 REC(-70,146,5,8,DP)
 REC(-78,146,6,8,DP)
@@ -25,7 +25,7 @@ REC(-84,130,2,2,CO)
 REC(-72,122,2,2,CO)
 REC(-80,158,2,2,CO)
 REC(-80,126,2,31,PO)
-REC(-72,125,2,33,PO)
+REC(-72,124,2,34,PO)
 REC(-73,121,4,4,PO)
 REC(-81,157,4,4,PO)
 REC(-77,148,4,4,ME)
@@ -36,7 +36,7 @@ REC(-85,129,4,4,ME)
 REC(-73,121,4,4,ME)
 REC(-68,140,2,2,VI)
 REC(-76,149,2,2,VI)
-REC(-72,124,2,2,VI)
+REC(-72,122,2,2,VI)
 REC(-80,158,2,2,VI)
 REC(-84,140,2,2,VI)
 REC(-84,130,2,2,VI)
@@ -61,4 +61,4 @@ TITLE -58 141  #s1
 $v 1000 0 
 TITLE -83 119  #Vss
 $0 1000 0 
-FFIG C:\Users\User\Desktop\Nand103NasirAldeen.MSK
+FFIG C:\Users\adeij\Desktop\vlsi-final-project\Nand103NasirAldeen.MSK
