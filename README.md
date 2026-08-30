@@ -2,8 +2,8 @@
 
 | Task | Assignee | Due Date | Time Remaining | Status |
 | --- | --- | --- | --- | --- |
-| Inverter | Layan Salem | Sat, Aug 29 | 🔴 Overdue (1 day) | |
-| NAND | Nasruddeen | Sat, Aug 29 | 🔴 Overdue (1 day) | |
+| Inverter | Layan Salem | Sat, Aug 29 | 🔴 Overdue (1 day) | Complete ✅ |
+| NAND | Nasruddeen | Sat, Aug 29 | 🔴 Overdue (1 day) | Complete ✅ |
 | AND | Sadeen | Sun, Aug 30 (morning) | 🟡 Due today | |
 | NOR | Kareem | Sun, Aug 30 (noon) | 🟡 Due today | Complete ✅ |
 | OR | Bashar | Sun, Aug 30 (afternoon) | 🟡 Due today | |
