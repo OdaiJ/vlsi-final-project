@@ -1,11 +1,11 @@
 DSCH 3.8
-VERSION 30/08/2026 12:02:57 PM
+VERSION 8/31/2026 6:46:02 PM
 BB(-19,-35,119,70)
 SYM  #button
 BB(-19,11,-10,19)
 TITLE -15 15  #B
 MODEL 59
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(-18,12,6,6,r)
 VIS 1
 PIN(-10,15,0.000,0.000)B
@@ -23,7 +23,7 @@ SYM  #button
 BB(-19,-4,-10,4)
 TITLE -15 0  #A
 MODEL 59
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(-18,-3,6,6,r)
 VIS 1
 PIN(-10,0,0.000,0.000)A
@@ -41,7 +41,7 @@ SYM  #light
 BB(113,10,119,24)
 TITLE 115 24  #Output
 MODEL 49
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(114,11,4,4,r)
 VIS 1
 PIN(115,25,0.000,0.000)Output
@@ -79,12 +79,12 @@ SYM  #nmos
 BB(80,40,100,60)
 TITLE 95 45  #nmos
 MODEL 901
-PROP   0.3u 0.05u MN                                                                                                                              
+PROP   0.3u 0.05u MN                                                                                                                               
 REC(81,45,19,15,r)
 VIS 0
 PIN(100,60,0.000,0.000)s
 PIN(80,50,0.000,0.000)g
-PIN(100,40,0.000,0.005)d
+PIN(100,40,0.000,0.010)d
 LIG(90,50,80,50)
 LIG(90,56,90,44)
 LIG(92,56,92,44)
@@ -98,7 +98,7 @@ SYM  #vdd
 BB(45,-35,55,-25)
 TITLE 48 -29  #vdd
 MODEL 1
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(0,0,0,0, )
 VIS 0
 PIN(50,-25,0.000,0.000)vdd
@@ -112,12 +112,12 @@ SYM  #pmos
 BB(30,-5,50,15)
 TITLE 45 0  #pmos
 MODEL 902
-PROP   0.5u 0.05u MP                                                                                                                              
+PROP   0.5u 0.05u MP                                                                                                                               
 REC(31,0,19,15,r)
 VIS 0
 PIN(50,-5,0.000,0.000)s
 PIN(30,5,0.000,0.000)g
-PIN(50,15,0.000,0.005)d
+PIN(50,15,0.000,0.010)d
 LIG(30,5,36,5)
 LIG(38,5,38,5)
 LIG(40,11,40,-1)
@@ -132,12 +132,12 @@ SYM  #nmos
 BB(25,40,45,60)
 TITLE 40 45  #nmos
 MODEL 901
-PROP   0.3u 0.05u MN                                                                                                                              
+PROP   0.3u 0.05u MN                                                                                                                               
 REC(26,45,19,15,r)
 VIS 0
 PIN(45,60,0.000,0.000)s
 PIN(25,50,0.000,0.000)g
-PIN(45,40,0.000,0.005)d
+PIN(45,40,0.000,0.010)d
 LIG(35,50,25,50)
 LIG(35,56,35,44)
 LIG(37,56,37,44)
@@ -151,12 +151,12 @@ SYM  #pmos
 BB(30,-25,50,-5)
 TITLE 45 -20  #pmos
 MODEL 902
-PROP   0.5u 0.05u MP                                                                                                                              
+PROP   0.5u 0.05u MP                                                                                                                               
 REC(31,-20,19,15,r)
 VIS 0
 PIN(50,-25,0.000,0.000)s
 PIN(30,-15,0.000,0.000)g
-PIN(50,-5,0.000,0.002)d
+PIN(50,-5,0.000,0.010)d
 LIG(30,-15,36,-15)
 LIG(38,-15,38,-15)
 LIG(40,-9,40,-21)
@@ -190,4 +190,4 @@ LIG(115,25,70,25)
 LIG(70,40,100,40)
 LIG(45,40,70,40)
 LIG(70,40,70,25)
-FFIG C:\Users\Lenovo\OneDrive\Desktop\Microwind Lite 3.8\DSCH3.8\examples\Kareem_NOR.sch
+FFIG C:\Users\adeij\Desktop\vlsi-final-project\kareem_NOR.sch
