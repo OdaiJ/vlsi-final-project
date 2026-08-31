@@ -9,4 +9,4 @@
 | OR | Bashar | Sun, Aug 30 (afternoon) | | Complete ✅ |
 | Additional Task | Lana Sayes | Sun, Aug 30 (afternoon) | 🟡 Overdue (1 day) | |
 | Component Placement | Mohyeddin | Tue, Sep 1 (morning) | 🟢 In 1 day | |
-| Power Grid | Odai | Tue, Sep 1 (morning) | 🟢 In 1 day | |
+| Power Grid | Odai | Tue, Sep 1 (morning) | | Complete ✅ |
