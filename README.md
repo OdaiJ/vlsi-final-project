@@ -7,6 +7,6 @@
 | AND | Sadeen | Sun, Aug 30 (morning) | | Complete ✅ |
 | NOR | Kareem | Sun, Aug 30 (noon) | | Complete ✅ |
 | OR | Bashar | Sun, Aug 30 (afternoon) | | Complete ✅ |
-| Additional Task | Lana Sayes | Sun, Aug 30 (afternoon) | 🟢 In 1 day |
-| Component Placement | Mohyeddin | Tue, Sep 1 (morning) | 🟢 In 1 day | |
+| Additional Task | Lana Sayes | Sun, Aug 30 (afternoon) | | Complete ✅ |
+| Component Placement | Mohyeddin | Tue, Sep 1 (morning) | | Complete ✅ |
 | Power Grid | Odai | Tue, Sep 1 (morning) | | Complete ✅ |
