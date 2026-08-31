@@ -1,5 +1,5 @@
-VERSION 30/08/2026 12:31:24 PM
-FIG #C:\Users\Lenovo\OneDrive\Desktop\Microwind Lite 3.8\Microwind3.8\Examples\AMS Training\Kareem_NOR.MSK
+VERSION 8/31/2026 5:09:02 PM
+FIG #C:\Users\adeij\Desktop\vlsi-final-project\Kareem-NOR.MSK
 BB(62,-6,100,46)
 SIMU #5.00
 ZOOM(47,-11,105,51)
@@ -48,14 +48,4 @@ REC(82,-6,4,18,M3)
 REC(74,24,4,22,M3)
 TITLE 97 34  #Vdd
 $1 1000 0 
-TITLE 96 18  #Output
-$v 1000 0 
-TITLE 62 -1  #B - (Input 2)
-$- 1000 0 
-TITLE 65 43  #A - (Input 1)
-$- 1000 0 
-TITLE 84 -4  #Vss
-$0 1000 0 
-TITLE 76 44  #Vdd
-$1 1000 0 
-FFIG C:\Users\Lenovo\OneDrive\Desktop\Microwind Lite 3.8\Microwind3.8\Examples\AMS Training\Kareem_NOR.MSK
+FFIG C:\Users\adeij\Desktop\vlsi-final-project\Kareem-NOR.MSK
