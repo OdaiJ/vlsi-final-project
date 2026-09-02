@@ -1,0 +1,40 @@
+{
+  "layers": {
+    "metal1": {
+      "used": true,
+      "width": 8
+    },
+    "metal2": {
+      "used": true,
+      "width": 8
+    },
+    "metal3": {
+      "used": true,
+      "width": 8
+    },
+    "metal4": {
+      "used": true,
+      "width": 8
+    },
+    "metal5": {
+      "used": false,
+      "width": 4
+    },
+    "metal6": {
+      "used": false,
+      "width": 4
+    }
+  },
+  "columns": 6,
+  "rows": 4,
+  "column_spacing": 68,
+  "row_spacing": 76,
+  "voltage_pattern": [
+    "VSS",
+    "VDD"
+  ],
+  "hanging_edge_length": 8,
+  "output": "odai_aljabari_power_grid.MSK",
+  "sim_value": 2.5,
+  "label_nets": true
+}
