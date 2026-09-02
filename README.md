@@ -1,4 +1,4 @@
-# VLSI Final Project
+# XNOR Gate Physical Design - a Physical Design Internship Final Project
 
 This repo holds the design files for our final project at ORION VLSI Technologies during our Physical Design (PD) internship there for the summer of 2026.
 
